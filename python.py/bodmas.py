@@ -1,0 +1,14 @@
+a=input('enter a number:');
+b=input('enter another number:');
+sum=a+b;
+sub=a-b;
+multi=a*b;
+div=a/b;
+rem=a%b;
+floor=a//b;
+print(sum);
+print(sub);
+print(multi);
+print(div);
+print(rem);
+print(floor);
